@@ -6,7 +6,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - ngrok
 
 ## ChangeLog:
-- Released on 23rd of September 2023
+- Released on 23rd of September 2023:
         - 3/11/2024 Upgraded from V0.9 To V1.0.
         - 2/15/2024 Upgraded from V0.7 To V0.9.
         - 1/17/2024 Upgraded from V0.6 To V0.7.
