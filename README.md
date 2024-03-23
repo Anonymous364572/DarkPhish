@@ -66,7 +66,7 @@ bash update.sh
 ## Modified by @Anonymous364572
 
 ## Credits:
-#### TheLinuxChoice: https://github.com/thelinuxchoice
+#### Anonymous364572: https://github.com/Anonymous364572
 #### DarksecDevelopers: https://github.com/DarksecDevelopers
 #### UndeadSec: https://github.com/UndeadSec
 #### HTR-TECH: https://github.com/htr-tech
