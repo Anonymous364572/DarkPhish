@@ -16,6 +16,6 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
         - 11/3/2023 Upgraded from V0.1 To V0.2.
         - 10/29/2023 Upgraded from V0.0 To V0.1.
 
-  ## List of All the sites available on DarkPhish
+  ## List of All the sites available on DarkPhish:
   ...
   
