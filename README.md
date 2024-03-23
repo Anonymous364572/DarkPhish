@@ -68,8 +68,6 @@ bash update.sh
 #### Anonymous: https://github.com/Anonymous4435
 #### MR-Dark-BOI: https://github.com/MR-Dark-Boi
 
-### Here ***sites*** folder collected from ZPhisher (https://github.com/htr-tech/zphisher)
-
 ### For any kind of help, support, suggetion and request ask in my Telegram Group:
 <p align="left">
 <a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
