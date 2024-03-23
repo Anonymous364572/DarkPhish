@@ -12,8 +12,8 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 	- 1/17/2024 Upgraded from V0.6 To V0.7.
 	- 12/23/2023 Upgraded from V0.4 To V0.6.
         - 12/14/2023 Upgraded from V0.3 To V0.4.
-	- .
-	- .
+	- 11/17/2023 Upgraded from V0.2 To V0.3.
+	- 11/3/2023 Upgraded from V0.1 To V0.2.
 	- 10/29/2023 Upgraded from V0.0 To V0.1.
    
 ## List of available sites:
