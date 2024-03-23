@@ -8,7 +8,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 ## ChangeLog:
 - Updated to v2.5:
 	- 3/11/2024 Upgraded from V0.9 To V1.0
-	- Added Traditional Login Page.
+	- 2/15/2024 Upgraded from V0.7 To V0.9
 	- Added Advanced Voting Poll Login Page.
 	- Added Fake Security Login Page.
 	- Added Facebook Messenger Login Page.
