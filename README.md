@@ -6,16 +6,16 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - ngrok
 
 ## ChangeLog:
-- Released on 23rd of September 2023:
-        - 3/11/2024 Upgraded from V0.9 To V1.0.
-        - 2/15/2024 Upgraded from V0.7 To V0.9.
-        - 1/17/2024 Upgraded from V0.6 To V0.7.
-        - 12/23/2023 Upgraded from V0.4 To V0.6.
-        - 12/4/2023 Upgraded from V0.3 To V0.4.
-        - 11/15/2023 Upgraded from V0.2 To V0.3.
-        - 11/3/2023 Upgraded from V0.1 To V0.2.
-        - 10/29/2023 Upgraded from V0.0 To V0.1.
-
+- Updated to v2.5:
+	- Added 2020 New Login/Phishing Page.
+	- Added Traditional Login Page.
+	- Added Advanced Voting Poll Login Page.
+	- Added Fake Security Login Page.
+	- Added Facebook Messenger Login Page.
+	- Improvements in ShellPhish Logo.
+	- Added New Sites.
+	- Added 4 Port Forwarding Options.
+   
 ## List of available sites:
 ```
 [01] Facebook     [11] Twitch       [21] DeviantArt
