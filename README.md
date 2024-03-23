@@ -65,9 +65,8 @@ bash update.sh
 
 ## Credits:
 #### Anonymous364572: https://github.com/Anonymous364572
-#### DarksecDevelopers: https://github.com/DarksecDevelopers
-#### UndeadSec: https://github.com/UndeadSec
-#### HTR-TECH: https://github.com/htr-tech
+#### Anonymous: https://github.com/Anonymous4435
+#### MR-Dark-BOI: https://github.com/MR-Dark-Boi
 
 ### Here ***sites*** folder collected from ZPhisher (https://github.com/htr-tech/zphisher)
 
