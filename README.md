@@ -70,7 +70,7 @@ bash update.sh
 
 ### For any kind of help, support, suggetion and request ask in my Telegram Group:
 <p align="left">
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 </p>
 
 ## Follow Me:
@@ -79,4 +79,4 @@ bash update.sh
 </p>
 
 ## Doante Me:
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AbirHasan2005)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/)
