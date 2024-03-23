@@ -17,7 +17,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
         - 10/29/2023 Upgraded from V0.0 To V0.1.
 
   ## List of All the sites available on DarkPhish:
-  ...
+...
 [01] Facebook     [11] Twitch       [21] DeviantArt
 [02] Instagram    [12] Pinterest    [22] Badoo
 [03] Google       [13] Snapchat     [23] Origin
