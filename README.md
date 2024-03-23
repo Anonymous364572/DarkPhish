@@ -47,12 +47,10 @@ cd DarkPhish
 
 - Register and sign up for ngrok to obtain ngrok auth token in order for it to work push auth in directions as outlined on ngrok official website.
 
-- Fire up ngrok on the port (ngrok http 5555/standard is 5555) you're planning to running shellphish on, then open a seperate terminal and run shellphish, link/url will be present in ngrok's terminal tab. 
-
 
 ## How to Update:
 ```bash
-cd ShellPhish
+cd DarkPhish
 ```
 Then:
 ```bash
@@ -60,7 +58,7 @@ bash update.sh
 ```
 
 ### Note:
-**This is in development. If you find any problems than please report them to my Telegram Group. To work properly in Android you have to Turn On Mobile Data and Hotspot. Without Mobile Data and Hotspot sometimes it not generates Phishing URL.**
+**If you find any problems than please report them to the Telegram Group. This Only Works For: Linux
 
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
