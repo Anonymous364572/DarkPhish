@@ -39,6 +39,10 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 git clone https://github.com/Anonymous364572/DarkPhish
 ```
 
+```bash
+cd DarkPhish
+```
+
 - You will need to download ngrok ngrok.com/get-started/setup for workaround.
 
 - Register and sign up for ngrok to obtain ngrok auth token in order for it to work push auth in directions as outlined on ngrok official website.
