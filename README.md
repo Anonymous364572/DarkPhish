@@ -36,7 +36,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AbirHasan2005/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
+git clone https://github.com/AbirHasan2005/DarkPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
 ```
 
 - You will need to download ngrok ngrok.com/get-started/setup for workaround.
