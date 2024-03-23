@@ -11,11 +11,10 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 	- 2/15/2024 Upgraded from v0.7 To v0.9.
 	- 1/17/2024 Upgraded from V0.6 To V0.7.
 	- 12/23/2023 Upgraded from V0.4 To V0.6.
-        - .
+        - 12/4/2023 Upgraded from V0.3 To V0.4.
 	- Added Facebook Messenger Login Page.
 	- Improvements in ShellPhish Logo.
 	- Added New Sites.
-	- Added 4 Port Forwarding Options.
    
 ## List of available sites:
 ```
