@@ -53,6 +53,9 @@ cd DarkPhish
 ## How to Update:
 ```bash
 cd ShellPhish
+```
+Then:
+```bash
 bash update.sh
 ```
 
