@@ -9,8 +9,9 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Updated to v1.0:
 	- 3/11/2024 Upgraded from v0.9 To v1.0.
 	- 2/15/2024 Upgraded from v0.7 To v0.9.
-	- Added Advanced Voting Poll Login Page.
+	- 1/17/2024 Upgraded from V0.6 To V0.7.
 	- Added Fake Security Login Page.
+        - .
 	- Added Facebook Messenger Login Page.
 	- Improvements in ShellPhish Logo.
 	- Added New Sites.
