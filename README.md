@@ -77,6 +77,3 @@ bash update.sh
 <p align="left">
 <a href="https://github.com/Anonymous364572"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
-
-## Doante Me:
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/)
