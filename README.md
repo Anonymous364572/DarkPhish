@@ -61,7 +61,7 @@ bash update.sh
 **If you find any problems than please report them to the Telegram Group. This Only Works For: Linux
 
 ## Legal disclaimer:
-***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
+***Usage of DarkPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
 
 ## Credits:
 #### 👑 Anonymous364572: https://github.com/Anonymous364572
